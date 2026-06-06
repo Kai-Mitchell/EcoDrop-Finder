@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "title": "Transfer Stations",
+    "searchTerm": "Transfer station",
+    "databaseCategory": "Drop-off - Transfer station",
+    "summary": "Transfer stations are drop-off sites where waste and recyclable materials are collected before being moved to another facility.",
+    "description": "Transfer stations are commonly used by councils and regional communities as central drop-off points. They may accept mixed household waste, bulky waste, green waste, scrap metal, cardboard, e-waste or other recyclable materials depending on the site. Materials are usually sorted, consolidated and transferred to recycling, recovery, treatment or disposal facilities.",
+    "commonItems": [
+      "General household waste",
+      "Bulky waste",
+      "Green waste",
+      "Scrap metal",
+      "Cardboard",
+      "Selected recyclable materials",
+      "Selected e-waste items"
+    ],
+    "checkBeforeYouGo": [
+      "Opening hours",
+      "Accepted waste types",
+      "Fees or disposal charges",
+      "Whether hazardous items are accepted",
+      "Vehicle access requirements"
+    ],
+    "avoidPuttingIn": [
+      "Batteries unless a battery collection point is provided",
+      "Chemicals unless accepted by the facility",
+      "Asbestos unless the site is approved for it",
+      "Liquids or hazardous waste unless listed as accepted"
+    ],
+    "userTip": "Use the location details before travelling because transfer stations can differ greatly in what they accept."
+  },
+  {
+    "id": 2,
+    "title": "E-waste Drop-off and Recycling",
+    "searchTerm": "E-waste",
+    "databaseCategory": "Drop-off - E-waste drop-off facility",
+    "summary": "E-waste facilities accept electronic items that should not be placed in general waste.",
+    "description": "E-waste includes electrical and electronic products that are no longer wanted or working. These items can contain valuable recoverable materials such as metals and plastics, but they may also contain hazardous components. E-waste drop-off facilities may only collect items, while recycling facilities may dismantle, sort or process them.",
+    "commonItems": [
+      "Mobile phones",
+      "Laptops",
+      "Desktop computers",
+      "Monitors",
+      "Chargers",
+      "Cables",
+      "Small appliances",
+      "Computer accessories"
+    ],
+    "checkBeforeYouGo": [
+      "Whether large appliances are accepted",
+      "Whether batteries must be removed first",
+      "Whether data should be erased from phones or computers",
+      "Whether the site accepts business/commercial e-waste"
+    ],
+    "avoidPuttingIn": [
+      "Loose batteries mixed with electronics",
+      "Devices containing personal data without wiping them",
+      "Broken screens without checking handling requirements",
+      "Large appliances if the site only accepts small e-waste"
+    ],
+    "userTip": "Before dropping off phones, laptops or storage devices, remove personal data and factory reset the device where possible."
+  },
+  {
+    "id": 3,
+    "title": "Container Deposit Drop-off",
+    "searchTerm": "Container deposit",
+    "databaseCategory": "Drop-off - Container deposit scheme drop-off facility",
+    "summary": "Container deposit facilities collect eligible bottles and cans through refund schemes.",
+    "description": "Container deposit facilities are linked to refund schemes for eligible drink containers. These facilities help recover aluminium, glass, plastic and liquid paperboard containers. Some sites are automated depots, while others are staffed collection points.",
+    "commonItems": [
+      "Eligible aluminium cans",
+      "Eligible plastic bottles",
+      "Eligible glass bottles",
+      "Eligible liquid paperboard containers"
+    ],
+    "checkBeforeYouGo": [
+      "Which containers are eligible",
+      "Refund payment method",
+      "Sorting requirements",
+      "Whether lids should be removed",
+      "Depot opening hours"
+    ],
+    "avoidPuttingIn": [
+      "Non-eligible containers",
+      "Food containers",
+      "Wine or spirit bottles if not accepted by the local scheme",
+      "Containers with liquid still inside"
+    ],
+    "userTip": "Check container eligibility before travelling so you do not bring items that the refund point cannot accept."
+  },
+  {
+    "id": 4,
+    "title": "Organics Recycling",
+    "searchTerm": "Organics",
+    "databaseCategory": "Recycling - Organics recycling facility",
+    "summary": "Organics recycling facilities recover green waste, garden waste and other organic materials.",
+    "description": "Organics recycling facilities process organic materials into useful products such as mulch, compost or soil conditioners. These facilities help divert biodegradable material from landfill and support resource recovery.",
+    "commonItems": [
+      "Garden waste",
+      "Grass clippings",
+      "Branches",
+      "Leaves",
+      "Mulch material",
+      "Food organics where accepted",
+      "Compostable organic material where accepted"
+    ],
+    "checkBeforeYouGo": [
+      "Whether food organics are accepted",
+      "Whether bags must be removed",
+      "Maximum branch or log sizes",
+      "Contamination rules",
+      "Drop-off fees"
+    ],
+    "avoidPuttingIn": [
+      "Plastic bags",
+      "Treated timber",
+      "Building waste",
+      "General waste",
+      "Hazardous waste"
+    ],
+    "userTip": "Keep organic material free from plastic, metal and general waste because contamination can make recovery harder."
+  },
+  {
+    "id": 5,
+    "title": "Construction and Demolition Waste",
+    "searchTerm": "C&D waste",
+    "databaseCategory": "Recycling - C&D waste recycling facility",
+    "summary": "C&D facilities recover materials from building, renovation and demolition waste.",
+    "description": "Construction and demolition waste facilities process building materials so they can be reused, recycled or recovered. These facilities may sort mixed loads and recover materials such as concrete, bricks, timber, metals and rubble.",
+    "commonItems": [
+      "Concrete",
+      "Bricks",
+      "Tiles",
+      "Timber",
+      "Rubble",
+      "Plasterboard where accepted",
+      "Mixed construction waste"
+    ],
+    "checkBeforeYouGo": [
+      "Whether the site accepts mixed or separated loads",
+      "Whether asbestos is prohibited",
+      "Fees by weight or vehicle type",
+      "Whether treated timber is accepted",
+      "Commercial access requirements"
+    ],
+    "avoidPuttingIn": [
+      "Asbestos unless the site is approved for it",
+      "Paints or chemicals",
+      "General household rubbish",
+      "Food waste",
+      "Hazardous materials"
+    ],
+    "userTip": "Separate materials before drop-off where possible because clean separated loads are often easier to recycle."
+  },
+  {
+    "id": 6,
+    "title": "Metals Recovery",
+    "searchTerm": "Metals",
+    "databaseCategory": "Recycling - Metals recovery facility",
+    "summary": "Metals recovery facilities collect and process metal items for recycling.",
+    "description": "Metals recovery facilities recover ferrous and non-ferrous metals from scrap items. These facilities may accept metal parts, tools, appliances, steel, aluminium and other metal products depending on the operator.",
+    "commonItems": [
+      "Scrap metal",
+      "Steel",
+      "Aluminium",
+      "Metal tools",
+      "Metal parts",
+      "Whitegoods where accepted",
+      "Vehicle or machinery parts where accepted"
+    ],
+    "checkBeforeYouGo": [
+      "Whether non-metal parts must be removed",
+      "Whether appliances are accepted",
+      "Whether gas bottles are accepted",
+      "Payment or drop-off requirements",
+      "Commercial load rules"
+    ],
+    "avoidPuttingIn": [
+      "Gas bottles unless specifically accepted",
+      "Batteries unless accepted",
+      "Chemical containers",
+      "Mixed general waste",
+      "Electronic items unless the site also accepts e-waste"
+    ],
+    "userTip": "Check if the facility accepts appliances or only clean scrap metal before travelling."
+  },
+  {
+    "id": 7,
+    "title": "Materials Recovery Facilities",
+    "searchTerm": "Materials recovery",
+    "databaseCategory": "Recycling - Materials recovery facility",
+    "summary": "Materials recovery facilities sort mixed recyclable materials into separate streams.",
+    "description": "Materials recovery facilities, often called MRFs, sort recyclable materials from mixed recycling streams. They may separate paper, cardboard, plastics, metals and glass so these materials can be sent for further processing.",
+    "commonItems": [
+      "Paper",
+      "Cardboard",
+      "Plastic containers",
+      "Glass containers",
+      "Aluminium cans",
+      "Steel cans",
+      "Mixed kerbside recyclables"
+    ],
+    "checkBeforeYouGo": [
+      "Whether the facility accepts direct public drop-off",
+      "Accepted recyclable streams",
+      "Contamination rules",
+      "Whether materials need to be sorted first"
+    ],
+    "avoidPuttingIn": [
+      "Food waste",
+      "Plastic bags unless accepted",
+      "Soft plastics unless accepted",
+      "Batteries",
+      "E-waste",
+      "Hazardous waste"
+    ],
+    "userTip": "Do not assume every MRF accepts public drop-off; some only process council or commercial recycling streams."
+  },
+  {
+    "id": 8,
+    "title": "Paper and Cardboard Recycling",
+    "searchTerm": "Paper and cardboard",
+    "databaseCategory": "Recycling - Paper and cardboard recycling facility",
+    "summary": "Paper and cardboard facilities recover clean paper-based materials.",
+    "description": "Paper and cardboard recycling facilities recover fibre-based materials for reprocessing. Clean, dry and uncontaminated material is usually easier to recycle than material with food, grease or liquid contamination.",
+    "commonItems": [
+      "Cardboard boxes",
+      "Office paper",
+      "Newspapers",
+      "Magazines",
+      "Packaging cardboard",
+      "Clean paper products"
+    ],
+    "checkBeforeYouGo": [
+      "Whether cardboard must be flattened",
+      "Whether commercial quantities are accepted",
+      "Whether paper and cardboard must be separated",
+      "Contamination rules"
+    ],
+    "avoidPuttingIn": [
+      "Greasy pizza boxes if heavily contaminated",
+      "Wet cardboard",
+      "Food waste",
+      "Plastic packaging",
+      "Waxed or laminated materials unless accepted"
+    ],
+    "userTip": "Flatten boxes and keep paper/cardboard dry to improve recyclability."
+  },
+  {
+    "id": 9,
+    "title": "Reuse Shops",
+    "searchTerm": "Reuse shop",
+    "databaseCategory": "Reuse - Reuse shop",
+    "summary": "Reuse shops redirect usable items away from landfill.",
+    "description": "Reuse shops collect, sell or redistribute items that are still usable. They support waste avoidance by extending the life of products before recycling or disposal becomes necessary.",
+    "commonItems": [
+      "Furniture",
+      "Tools",
+      "Household goods",
+      "Books",
+      "Toys",
+      "Small appliances where accepted",
+      "Reusable building materials where accepted"
+    ],
+    "checkBeforeYouGo": [
+      "Donation acceptance rules",
+      "Item condition requirements",
+      "Electrical item rules",
+      "Opening hours",
+      "Whether pickup services are available"
+    ],
+    "avoidPuttingIn": [
+      "Broken or unsafe items",
+      "Heavily damaged furniture",
+      "Dirty mattresses unless accepted",
+      "Hazardous items",
+      "Items recalled for safety reasons"
+    ],
+    "userTip": "Only donate items that are clean, safe and reusable."
+  },
+  {
+    "id": 10,
+    "title": "Hazardous Waste Facilities",
+    "searchTerm": "Hazardous waste",
+    "databaseCategory": "Hazardous waste facility",
+    "summary": "Hazardous waste facilities manage materials that need special handling.",
+    "description": "Hazardous waste facilities may treat, recycle, store, transfer or dispose of waste that presents safety, health or environmental risks. These facilities may not be suitable for general public drop-off and may operate under strict acceptance rules.",
+    "commonItems": [
+      "Chemicals where accepted",
+      "Solvents where accepted",
+      "Oils where accepted",
+      "Contaminated materials",
+      "Specialised industrial waste",
+      "Hazardous residues"
+    ],
+    "checkBeforeYouGo": [
+      "Whether the public can use the facility",
+      "Accepted hazardous waste types",
+      "Packaging and labelling requirements",
+      "Booking requirements",
+      "Fees and safety instructions"
+    ],
+    "avoidPuttingIn": [
+      "Unknown chemicals without checking first",
+      "Leaking containers",
+      "Mixed chemicals",
+      "Explosive or highly reactive materials unless specifically accepted",
+      "Household waste"
+    ],
+    "userTip": "Contact the facility before travelling because hazardous waste sites often have strict acceptance and safety requirements."
+  },
+  {
+    "id": 11,
+    "title": "Landfill",
+    "searchTerm": "Landfill",
+    "databaseCategory": "Disposal - Landfill",
+    "summary": "Landfill is for waste that cannot be reused, recycled or recovered.",
+    "description": "Landfill facilities dispose of residual waste that is not suitable for recovery. While landfill is necessary for some waste streams, EcoDrop Finder encourages users to check reuse, recycling and recovery options first.",
+    "commonItems": [
+      "Residual waste",
+      "Non-recyclable waste",
+      "Contaminated waste where accepted",
+      "Waste not suitable for recovery"
+    ],
+    "checkBeforeYouGo": [
+      "Whether the item can be recycled elsewhere",
+      "Fees and vehicle requirements",
+      "Prohibited materials",
+      "Hazardous waste rules",
+      "Opening hours"
+    ],
+    "avoidPuttingIn": [
+      "Batteries",
+      "E-waste",
+      "Reusable items",
+      "Hazardous chemicals",
+      "Recyclable metals, paper or cardboard"
+    ],
+    "userTip": "Treat landfill as the last option after checking whether the item can be reused, recycled or recovered."
+  }
+]
